@@ -1,17 +1,3 @@
-# API
-
-https://newsapi.org/docs
-
-## Stretch Goals APIs
-
-https://docs.mapbox.com/
-
-https://documentation.mailgun.com/en/latest/
-
-### Database Model
-
-![Database Models Schema](public/CurrentBasisSchema.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
